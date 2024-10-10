@@ -2,7 +2,7 @@
 
 Prueba
 
-![Presentación del contenido](img/NIevesCanas_Logo.png)
+![Presentación del contenido](img/NC_Logo.png)
 
 Este conjunto de herramientas incluye:
 - **Prueba:**: init.js

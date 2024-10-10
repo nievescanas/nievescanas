@@ -1,4 +1,4 @@
-![Presentación del contenido](img/NC_Logo.png)
+![Presentación del contenido](img/NC_Banner.png)
 # Hello, my name is Nieves Canas
 
 Prueba

@@ -2,7 +2,7 @@
 
 Prueba
 
-![Presentación del contenido](assets_readme/Toolkit.jpg)
+![Presentación del contenido](img/NIevesCanas_Logo.png)
 
 Este conjunto de herramientas incluye:
 - **Prueba:**: init.js

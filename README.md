@@ -49,8 +49,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nievescanas&theme=dracula&no-bg=true&no-frame=true)](https://github.com/nievescanas)
 
 ## 📫 Cómo contactarme
-- [LinkedIn](https://linkedin.com/in/nievescanas)
-- [Twitter](https://twitter.com/nievescanas)
+- [LinkedIn](https://linkedin.com/in/nieves-canas-martín)
 - [Correo electrónico](mailto:nievescanas@ejemplo.com)
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=nievescanas&color=blueviolet)

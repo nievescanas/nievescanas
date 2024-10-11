@@ -44,8 +44,10 @@
 
 ## 📫 Cómo contactarme
 ![Presentación del contenido](img/NC_Final.png)
-- [LinkedIn](https://linkedin.com/in/nieves-canas-martín)
-- [Correo electrónico](mailto:nievescanas@ejemplo.com)
+<div align="center">
+  <a href="https://linkedin.com/in/nieves-canas-martín">LinkedIn</a> &nbsp; | &nbsp; 
+  <a href="mailto:nievescanas@ejemplo.com">Correo electrónico</a>
+</div>
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=nievescanas&color=blueviolet)
 

@@ -43,6 +43,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nievescanas&theme=dracula&no-bg=true&no-frame=true)](https://github.com/nievescanas)
 
 ## 📫 Cómo contactarme
+![Presentación del contenido](img/NC_Final.png)
 - [LinkedIn](https://linkedin.com/in/nieves-canas-martín)
 - [Correo electrónico](mailto:nievescanas@ejemplo.com)
 

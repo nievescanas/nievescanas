@@ -22,7 +22,7 @@
 ## 📊 Mis estadísticas en GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nievescanas&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nievescanas&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nievescanas&layout=compact&theme=xcode)
 
 ## 🎯 Gráfico de actividad
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nievescanas&theme=radical)
